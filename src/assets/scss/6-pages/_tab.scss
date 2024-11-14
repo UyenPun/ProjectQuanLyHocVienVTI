@@ -1,0 +1,53 @@
+.mytab-primary {
+    background: none !important;
+    border: 1px solid #3B82EC;
+    color: inherit !important;
+}
+
+.mytab-title {
+    color: inherit !important;
+}
+
+.nav-item-inactive {
+    cursor: not-allowed !important;
+}
+
+.nav-link-inactive {
+    color: #999999 !important;
+}
+
+.scrollview-header {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #dee2e6;
+}
+
+.scrollview-item {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #dee2e6;
+}
+
+.scrollview-highlight {
+    background-color: rgb(241, 63, 63);
+    color: #fff;
+}
+
+.scrollMenu-container {
+    display: block !important;
+}
+
+.reset-tab-primary h1,
+.reset-tab-primary h2,
+.reset-tab-primary h3,
+.reset-tab-primary h4,
+.reset-tab-primary h5,
+.reset-tab-primary h6,
+.reset-tab-primary .h1,
+.reset-tab-primary .h2,
+.reset-tab-primary .h3,
+.reset-tab-primary .h4,
+.reset-tab-primary .h5,
+.reset-tab-primary .h6 {
+    color: #000;
+}
